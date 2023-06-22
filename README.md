@@ -1,16 +1,21 @@
-# agmo_pre_test
+# Agmo Pre Test
 
-A new Flutter project.
+A new Flutter project for pre test from Agmo Companies.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone this repository
+- Run pub get in your visual studio code
+- Connect your emulator to your visual studio code
+- Do run without debugging
 
-A few resources to get you started if this is your first Flutter project:
+## Install APK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Check apk folder
+- Download to your phone
+- Do install
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Record
+
+- Check video_record folder
+- Download the video to your phone or you can open while using visual studio code
